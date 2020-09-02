@@ -20,7 +20,7 @@ main(void)
   dup(0);  // stderr
 
   for(;;){
-    printf(1, "Life is short to spend it in reading this line, welcome\n");
+    printf(1, "Life is short to spend it in reading this line, u welcome\n");
     pid = fork();
     if(pid < 0){
       printf(1, "init: fork failed\n");
