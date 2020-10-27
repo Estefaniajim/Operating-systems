@@ -3,6 +3,7 @@
 #include <unistd.h>
 
 void signalHandler(int signum){
+    int status;
     printf("hahaha no me matas");
 }
 
