@@ -1,0 +1,6 @@
+total 16
+-rw-r--r-- 1 gitpod gitpod   14 Oct 27 23:35 archivo.txt
+-rw-r--r-- 1 gitpod gitpod   28 Oct 27 23:39 copia2.txt
+-rw-r--r-- 1 gitpod gitpod   14 Oct 27 23:37 copia.txt
+drwxr-xr-x 2 gitpod gitpod 4096 Oct 27 23:41 dir
+-rw-r--r-- 1 gitpod gitpod    0 Oct 27 23:42 lista.txt
